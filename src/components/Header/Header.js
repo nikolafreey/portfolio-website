@@ -61,7 +61,7 @@ const Header = () => (
       <SocialIcons href="https://instagram.com/nikolafreey">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
-      <SocialIcons href="#">
+      <SocialIcons href="mailto:nikolav54@gmail.com">
         <Div1>
           <AiFillMail size="3rem" />
           <span style={{ marginLeft: "20px", paddingTop: "5px" }}>
