@@ -66,6 +66,8 @@ const Technologies = () => (
             <br /> Redis Caching
             <br />
             Database Design
+            <br />
+            Docker & Kubernetes
           </ListParagraph>
         </ListContainer>
       </ListItem>
