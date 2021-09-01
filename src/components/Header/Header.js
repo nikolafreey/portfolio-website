@@ -58,15 +58,10 @@ const Header = () => (
       <SocialIcons href="https://www.linkedin.com/in/nikola-vukovic-556a911b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0iswo6ngRAeyiID6vniYeg%3D%3D">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://instagram.com/nikolafreey">
-        <AiFillInstagram size="3rem" />
-      </SocialIcons>
       <SocialIcons href="mailto:nikolav54@gmail.com">
         <Div1>
           <AiFillMail size="3rem" />
-          <span style={{ marginLeft: "20px", paddingTop: "5px" }}>
-            nikolav54@gmail.com
-          </span>
+          <span style={{ marginLeft: "20px", paddingTop: "5px" }}></span>
         </Div1>
       </SocialIcons>
     </Div3>
