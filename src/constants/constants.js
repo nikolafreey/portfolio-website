@@ -39,6 +39,16 @@ export const projects = [
     visit: "https://github.com/nikolafreey/fiscalisation-montenegro-backend",
     id: 3,
   },
+  {
+    title: "Job Board in Laravel MVC",
+    description:
+      "This is an open-source job board application powered by Laravel and Tailwind CSS and Stripe (Laravel Cashier) and Laravel Breeze for Authentication. The goal of this is to let you self-host your own job board website, similar to larajobs.com or remoteok.io.",
+    image: "/images/jobBoard.png",
+    tags: ["Laravel", "Stripe", "MariaDB", "Laravel Breeze", "Tailwind"],
+    source: "https://github.com/nikolafreey/job_board_laravel",
+    visit: "https://github.com/nikolafreey/job_board_laravel",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
