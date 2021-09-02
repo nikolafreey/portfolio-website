@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/Fiscalisation.png",
     tags: ["React", "Redux", "Formik", "Redux-Saga", "Yup"],
     source: "https://github.com/nikolafreey/fiscalisation-montenegro-front",
-    visit: "https://github.com/nikolafreey/fiscalisation-montenegro-front",
+    visit: "https://test.postfiskal.me",
     id: 2,
   },
   {
@@ -36,7 +36,7 @@ export const projects = [
     image: "/images/Fiscalisation.png",
     tags: ["Laravel", "PHP", "ElasticSearch", "MariaDB", "Sanctum"],
     source: "https://github.com/nikolafreey/fiscalisation-montenegro-backend",
-    visit: "https://github.com/nikolafreey/fiscalisation-montenegro-backend",
+    visit: "https://test.postfiskal.me",
     id: 3,
   },
   {
