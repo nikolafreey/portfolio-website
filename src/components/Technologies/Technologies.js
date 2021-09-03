@@ -38,6 +38,8 @@ const Technologies = () => (
             Javascript
             <br />
             React
+            <br /> CSS(SASS) & HTML
+            <br /> MaterialUI / Ant Design
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -69,6 +71,7 @@ const Technologies = () => (
             Database Design
             <br />
             Docker & Kubernetes
+            <br /> Microservices Concepts
           </ListParagraph>
         </ListContainer>
       </ListItem>
