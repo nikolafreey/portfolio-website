@@ -51,6 +51,7 @@ const Technologies = () => (
             <br /> .Net Core
             <br /> MySQL
             <br /> PostgreSQL
+            <br /> Firebase
           </ListParagraph>
         </ListContainer>
       </ListItem>
