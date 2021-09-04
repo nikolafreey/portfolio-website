@@ -49,6 +49,18 @@ export const projects = [
     visit: "https://github.com/nikolafreey/job_board_laravel",
     id: 4,
   },
+  {
+    title: "Python Microservices Demo",
+    description:
+      "Using Python microservices allows you to break up your apps into smaller parts that communicate with each other. This can make it simpler to scale the application based on the traffic. Also, the separation of concerns makes it easier to work on just one part of the app at a time.",
+    image: "/images/pythonMicroservicesDjangoFlask.png",
+    tags: ["Python", "Django", "Flask", "RabbitMQ", "Docker", "MySQL"],
+    source:
+      "https://github.com/nikolafreey/python-rabbitmq-microservices-example",
+    visit:
+      "https://github.com/nikolafreey/python-rabbitmq-microservices-example",
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
